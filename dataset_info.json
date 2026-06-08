@@ -1,0 +1,18 @@
+{
+  "name": "NALU-PTBR",
+  "full_name": "Neuro-Affective Language Understanding Dataset for Brazilian Portuguese",
+  "language": "Brazilian Portuguese (PT-BR)",
+  "samples": 205109,
+  "tasks": 8,
+  "psychometric_samples": 42257,
+  "sentiment_labels": 3,
+  "emotion_labels": 9,
+  "psychological_labels": 11,
+  "behavioral_labels": 6,
+  "risk_labels": 4,
+  "clinical_labels": 5,
+  "russell_dimensions": 2,
+  "psychometric_dimensions": 5,
+  "license": "Academic Research License",
+  "citation": "Diego Resende Faria. Interpretable Neuro-Affective Language Understanding for Psychological and Psychometric Assessment Towards Clinical-Support Applications. Scientific Reports, 2026 (under review)."
+}
